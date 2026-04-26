@@ -41,5 +41,19 @@ Tables included:
 - resources
 - ratings
 
-## 👨‍💻 Author
+# Screenshots
+
+## Login Screen
+![Login](screenshots/login.png)
+
+## Dashboard
+![Dashboard](screenshots/dashboard1.png)
+
+## Admin Panel
+![Admin Panel](screenshots/adminpanel.png)
+
+## Browse Resources
+![Browse](screenshots/browse.png)
+
+# 👨‍💻 Author
 Shantanu Devrani
