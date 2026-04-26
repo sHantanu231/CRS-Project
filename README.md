@@ -27,5 +27,19 @@ A Java-based desktop application that allows students and admins to share academ
 - Duplicate detection using hashing
 - Role-based access control
 
+# Database
+
+The database schema is provided in the file `database.sql`.
+
+To set up:
+1. Open MySQL Workbench
+2. Import the `database.sql` file
+3. Run the script to create tables and sample data
+
+Tables included:
+- users
+- resources
+- ratings
+
 ## 👨‍💻 Author
 Shantanu Devrani
